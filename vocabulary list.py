@@ -40,6 +40,5 @@ while True:
             f.write(ask + ":" + answer + "\n")
         f.close()
         print("단어장 저장 완료")
-21
 
             
